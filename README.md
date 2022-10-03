@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kiyoon
-- 🎓️ PhD student @ The University of Edinburgh, UK.
+- 👋 Hi, I’m Kiyoon Kim
+- 🎓️ PhD student @ The University of Edinburgh, UK
 - 👀 I’m interested in deep learning in computer vision, specifically **Video Action Recognition**
 - 💞️ Check out all my work at [PyVideoAI repo.](https://github.com/kiyoon/PyVideoAI)
 
