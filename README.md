@@ -18,6 +18,16 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 
 <img src="https://user-images.githubusercontent.com/12980409/151038213-12bdad91-7895-40e7-9304-126079fed637.png" alt="8-frame TC Reordering" width="400">  
 
+## Explore My Plugins
+
+- [Treemux for Tmux](https://github.com/kiyoon/treemux): a modern file explorer as Tmux sidebar!
+- [Tmuxsend.vim](https://github.com/kiyoon/tmuxsend.vim): send any text from Vim to other Tmux panes. Interactive development, file explorer to command line, etc.
+- [telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim): Neovim's Telescope extension to insert file path on your vim current buffer
+- [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
+- [PyVideoAI](https://github.com/kiyoon/PyVideoAI): Video AI framework that uses Python as config files. Excellent for researchers!
+
+Your support will be of crucial importance to me to continue contributing to various open source projects! 
+
 <!---
 kiyoon/kiyoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
