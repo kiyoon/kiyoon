@@ -20,7 +20,9 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 
 ## Explore My Plugins
 
+- [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (co-maintainer)
 - [Treemux for Tmux](https://github.com/kiyoon/treemux): a modern file explorer as Tmux sidebar!
 - [Tmuxsend.vim](https://github.com/kiyoon/tmuxsend.vim): send any text from Vim to other Tmux panes. Interactive development, file explorer to command line, etc.
 - [telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim): Neovim's Telescope extension to insert file path on your vim current buffer
 - [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
+- [nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture): Use a webcam to unlock hand gesture control
