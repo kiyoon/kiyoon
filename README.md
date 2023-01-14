@@ -20,7 +20,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 
 ## Explore My Plugins
 
-- [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (co-maintainer)
+- [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (co-maintainer) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects.svg?style=social&label=Star)](https://GitHub.com/nvim-treesitter/nvim-treesitter-textobjects/stargazers/)
 - [nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture): Use a webcam to unlock hand gesture control
 - [Treemux for Tmux](https://github.com/kiyoon/treemux): a modern file explorer as Tmux sidebar!
 - [Jupynium.nvim](https://github.com/kiyoon/jupynium.nvim): Automate your Jupyter Notebook usage
