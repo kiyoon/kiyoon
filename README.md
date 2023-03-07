@@ -27,4 +27,4 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [Tmuxsend.vim](https://github.com/kiyoon/tmuxsend.vim): send any text from Vim to other Tmux panes. Interactive development, file explorer to command line, etc.
 - [telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim): Neovim's Telescope extension to insert file path on your vim current buffer
 - [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
-
+- [haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim): Dynamic contextual scope highlighting for Haskell.
