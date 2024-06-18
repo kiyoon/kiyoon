@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kiyoon Kim
-- 🎓️ PhD student @ The University of Edinburgh, UK
-- 👀 I’m interested in deep learning in computer vision, specifically **Video Action Recognition**
-- 💻 I make Vim, Neovim, and Tmux plugins to enhance terminal experience.
+- 🎓️ PhD @ The University of Edinburgh, UK
+- 👀 I’m interested in deep learning in computer vision, specifically **Stable Diffusion** and **Video Action Recognition**
+- 💻 I make Neovim, and Tmux plugins to enhance the terminal experience.
 
 ## Recent Work
 ### [An Action Is Worth Multiple Words: Handling Ambiguity in Action Recognition](https://github.com/kiyoon/verb_ambiguity)
