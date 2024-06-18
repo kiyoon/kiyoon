@@ -18,7 +18,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 
 <img src="https://user-images.githubusercontent.com/12980409/151038213-12bdad91-7895-40e7-9304-126079fed637.png" alt="8-frame TC Reordering" width="400">  
 
-## Explore My Plugins
+## Explore My Neovim/Tmux Plugins
 
 - [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (co-maintainer) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects.svg?style=social&label=Star)](https://GitHub.com/nvim-treesitter/nvim-treesitter-textobjects/stargazers/)
 - [nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture): Use a webcam to unlock hand gesture control
