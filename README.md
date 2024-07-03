@@ -30,5 +30,5 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
 - [haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim): Dynamic contextual scope highlighting for Haskell.
 
-## 🦀 I like Rust and the challenges with low-level programming
+## 🦀 I like Rust and the underlying challenges of low-level programming
 - [rust-graph](https://github.com/deargen/rust-graph): Speedy graph operations written in Rust but available as a Python package.
