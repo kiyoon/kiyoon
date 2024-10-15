@@ -39,3 +39,5 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [magick.nvim](https://github.com/kiyoon/magick.nvim): [Lua magick binding](https://github.com/leafo/magick) as a NeoVim plugin.
 - [py-reduce-binary](https://github.com/deargen/py-reduce-binary): Install [reduce](https://github.com/rlabduke/reduce) with pip
 
+## 🛕 Some useful templates
+- [C_python_ipc](https://github.com/kiyoon/C_python_ipc): Fast way to communicate between C and python processes
