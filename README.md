@@ -33,3 +33,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 
 ## 🦀 I like Rust and the underlying challenges of low-level programming
 - [rust-graph](https://github.com/deargen/rust-graph): Speedy graph operations written in Rust but available as a Python package.
+
+## 📦 Packaging existing programs to make them easily available
+- [tmux-appimage](https://github.com/kiyoon/tmux-appimage): Install the latest tmux on Linux without a package manager. Automatically builds with GitHub Actions CI.
+- [magick.nvim](https://github.com/kiyoon/magick.nvim): [Lua magick binding](https://github.com/leafo/magick) as a NeoVim plugin.
