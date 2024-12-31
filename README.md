@@ -45,6 +45,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 ## 🛕 Some useful templates
 - [C_python_ipc](https://github.com/kiyoon/C_python_ipc): Fast way to communicate between C and python processes
 - [python-project-template-2024](https://github.com/deargen/python-project-template-2024): All good practices in python packaging in one repo.
+- [mkdocs-material-github-flavored-template](https://github.com/kiyoon/mkdocs-material-github-flavored-template): MkDocs template with GitHub-style markdown, with useful GitHub Actions to deploy manually and automatically.
 
 ## 🐍 Python project management
 - [version-pioneer](https://github.com/kiyoon/version-pioneer): Git tag-based project version management, with setuptools/hatchling/pdm support, which is extensible to any language.
