@@ -30,6 +30,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim): Neovim's Telescope extension to insert file path on your vim current buffer
 - [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
 - [haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim): Dynamic contextual scope highlighting for Haskell.
+- [Korean-IME.nvim](https://github.com/kiyoon/Korean-IME.nvim): Korean input method for NeoVim that supports Chinese characters. (한글, 한자 입력기)
 
 ## 🦀 I like Rust and the underlying challenges of low-level programming
 - [rust-graph](https://github.com/deargen/rust-graph): Speedy graph operations written in Rust but available as a Python package.
