@@ -26,7 +26,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [Treemux for Tmux](https://github.com/kiyoon/treemux): a modern file explorer as Tmux sidebar! [![GitHub stars](https://img.shields.io/github/stars/kiyoon/treemux.svg?style=social&label=Star)](https://github.com/kiyoon/treemux/stargazers/)
 - [Jupynium.nvim](https://github.com/kiyoon/jupynium.nvim): The BEST way to use Jupyter Notebook in vim [![GitHub stars](https://img.shields.io/github/stars/kiyoon/jupynium.nvim.svg?style=social&label=Star)](https://github.com/kiyoon/jupynium.nvim/stargazers/)
 - [python-import.nvim](https://github.com/kiyoon/python-import.nvim): add import statements FAST.
-- [Tmuxsend.vim](https://github.com/kiyoon/tmuxsend.vim): send any text from Vim to other Tmux panes. Interactive development, file explorer to command line, etc.
+- [tmux-send.nvim](https://github.com/kiyoon/tmux-send.nvim): send any text from NeoVim to other Tmux panes. Interactive development, file explorer to command line, etc.
 - [telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim): Neovim's Telescope extension to insert file path on your vim current buffer
 - [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
 - [haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim): Dynamic contextual scope highlighting for Haskell.
