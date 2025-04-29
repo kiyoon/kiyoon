@@ -49,6 +49,10 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [mkdocs-material-github-flavored-template](https://github.com/kiyoon/mkdocs-material-github-flavored-template): MkDocs template with GitHub-style markdown, with useful GitHub Actions to deploy manually and automatically.
 - [backup_script](https://github.com/kiyoon/backup_script): Incremental backup using hard links on Unix/Linux.
 
+## :octocat: GitHub Actions
+- [changelog-action](https://github.com/kiyoon/changelog-action): Generate CHANGELOG.md from Conventional Commits
+- [parse-changelog-action](https://github.com/kiyoon/parse-changelog-action): Parse CHANGELOG.md, for automatically creating a Release according to the changelog.
+
 ## 🐍 Python project management
 - [version-pioneer](https://github.com/kiyoon/version-pioneer): Git tag-based project version management, with setuptools/hatchling/pdm support, which is extensible to any language.
 - [workflows](https://github.com/deargen/workflows): GitHub Actions reusable workflows and composite actions.
