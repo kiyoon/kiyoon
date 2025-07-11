@@ -5,6 +5,13 @@
   - [Use my configuration dotfiles](https://github.com/kiyoon/dotfiles)
 
 ## 📰 Recent Work
+### [Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts](https://github.com/kiyoon/video-adversarial-augmentation)
+
+Kiyoon Kim, Shreyank N Gowda, Panagiotis Eustratiadis, Antreas Antoniou, Robert B Fisher  
+In ICPRAI 2024. [`arXiv`](https://arxiv.org/abs/2401.11406)
+
+<img width="1176" height="704" alt="image" src="https://github.com/user-attachments/assets/618213c5-2579-4ee1-bf26-3aa2d219ed56" />
+
 ### [An Action Is Worth Multiple Words: Handling Ambiguity in Action Recognition](https://github.com/kiyoon/verb_ambiguity)
 
 Kiyoon Kim, Davide Moltisanti, Oisin Mac Aodha, Laura Sevilla-Lara  
