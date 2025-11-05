@@ -39,6 +39,13 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim): Dynamic contextual scope highlighting for Haskell.
 - [Korean-IME.nvim](https://github.com/kiyoon/Korean-IME.nvim): Korean input method for NeoVim that supports Chinese characters. (한글, 한자 입력기)
 
+Also I maintain some forks of existing plugins:
+
+- [indent-blankline-v2.nvim](https://github.com/kiyoon/indent-blankline-v2.nvim): indentation guides.
+    - FORK: keep the original behaviour instead of only highlighting specific scopes.
+- [nvim-treesitter-context](https://github.com/kiyoon/nvim-treesitter-context): show current context like function signatures.
+    - FORK: support single-line context
+  
 ## 🦀 I like Rust and the underlying challenges of low-level programming
 - [rust-graph](https://github.com/deargen/rust-graph): Speedy graph operations written in Rust but available as a Python package.
 
