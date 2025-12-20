@@ -29,7 +29,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 ## 🧰 Explore My Neovim/Tmux Plugins
 
 - [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) (co-maintainer) [![GitHub stars](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects.svg?style=social&label=Star)](https://GitHub.com/nvim-treesitter/nvim-treesitter-textobjects/stargazers/)
-- [nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture): Use a webcam to unlock hand gesture control
+- [nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture): Use a webcam to unlock hand gesture control [![GitHub stars](https://img.shields.io/github/stars/kiyoon/nvim-hand-gesture.svg?style=social&label=Star)](https://github.com/kiyoon/nvim-hand-gesture/stargazers/)
 - [Treemux for Tmux](https://github.com/kiyoon/treemux): a modern file explorer as Tmux sidebar! [![GitHub stars](https://img.shields.io/github/stars/kiyoon/treemux.svg?style=social&label=Star)](https://github.com/kiyoon/treemux/stargazers/)
 - [Jupynium.nvim](https://github.com/kiyoon/jupynium.nvim): The BEST way to use Jupyter Notebook in vim [![GitHub stars](https://img.shields.io/github/stars/kiyoon/jupynium.nvim.svg?style=social&label=Star)](https://github.com/kiyoon/jupynium.nvim/stargazers/)
 - [python-import.nvim](https://github.com/kiyoon/python-import.nvim): add import statements FAST.
