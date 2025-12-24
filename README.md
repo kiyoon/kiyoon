@@ -2,7 +2,7 @@
 - 🎓️ PhD @ The University of Edinburgh, UK
 - 👀 I’m interested in deep learning in computer vision, specifically **Stable Diffusion** and **Video Action Recognition**
 - 💻 I make Neovim, and Tmux plugins to enhance the terminal experience.
-  - [Use my configuration dotfiles](https://github.com/kiyoon/dotfiles)
+  - Use my configuration [dotfiles](https://github.com/kiyoon/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/kiyoon/dotfiles.svg?style=social&label=Star)](https://github.com/kiyoon/dotfiles/stargazers/)
 
 ## 📰 Recent Work
 ### [Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts](https://github.com/kiyoon/video-adversarial-augmentation)
