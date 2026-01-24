@@ -38,6 +38,7 @@ In BMVC 2022. [`arXiv`](http://arxiv.org/abs/2201.10394)
 - [treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim): Smart and context-aware indent object in neovim
 - [haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim): Dynamic contextual scope highlighting for Haskell.
 - [Korean-IME.nvim](https://github.com/kiyoon/Korean-IME.nvim): Korean input method for NeoVim that supports Chinese characters. (한글, 한자 입력기)
+- [repeatable-move.nvim](https://github.com/kiyoon/repeatable-move.nvim): Make move commands repeatable with `;` and `,`
 
 Also I maintain some forks of existing plugins:
 
