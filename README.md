@@ -47,9 +47,11 @@ Also I maintain some forks of existing plugins:
 - [nvim-treesitter-context](https://github.com/kiyoon/nvim-treesitter-context): show current context like function signatures.
     - FORK: support single-line context
   
-## 🦀 I like Rust and the underlying challenges of low-level programming
+## 🐍 Python packages
 - [rust-graph](https://github.com/deargen/rust-graph): Speedy graph operations written in Rust but available as a Python package.
-
+- [version-pioneer](https://github.com/kiyoon/version-pioneer): Git tag-based project version management, with setuptools/hatchling/pdm support, which is extensible to any language.
+- [historybook](https://github.com/deargen/historybook): Storybook-like visual inspection UI for Python
+- [polyqueue](https://github.com/deargen/polyqueue): Pydantic-typed async-first Python job queue supporting Redis, SQS, Azure Service Bus, and PGMQ
 
 ## 📦 Packaging existing programs to make them easily available
 - [tmux-appimage](https://github.com/kiyoon/tmux-appimage): Install the latest tmux on Linux without a package manager. Automatically builds with GitHub Actions CI.
@@ -67,7 +69,4 @@ Also I maintain some forks of existing plugins:
 ## :octocat: GitHub Actions
 - [changelog-action](https://github.com/kiyoon/changelog-action): Generate CHANGELOG.md from Conventional Commits
 - [parse-changelog-action](https://github.com/kiyoon/parse-changelog-action): Parse CHANGELOG.md, for automatically creating a Release according to the changelog.
-
-## 🐍 Python project management
-- [version-pioneer](https://github.com/kiyoon/version-pioneer): Git tag-based project version management, with setuptools/hatchling/pdm support, which is extensible to any language.
 - [workflows](https://github.com/deargen/workflows): GitHub Actions reusable workflows and composite actions.
