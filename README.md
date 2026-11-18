@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Kiyoon Kim
-- 🎓️ PhD @ The University of Edinburgh, UK
-- 👀 I’m interested in deep learning in computer vision, specifically **Stable Diffusion** and **Video Action Recognition**
-- 💻 I make Neovim, and Tmux plugins to enhance the terminal experience.
-  - Use my configuration [dotfiles](https://github.com/kiyoon/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/kiyoon/dotfiles.svg?style=social&label=Star)](https://github.com/kiyoon/dotfiles/stargazers/)
+- 🎓️ PhD in Informatics (Computer Vision) @ The University of Edinburgh, UK
+- 💻 I make various dev tools for a better programming experience
 
 ## 📰 Recent Work
 ### [Adversarial Augmentation Training Makes Action Recognition Models More Robust to Realistic Video Distribution Shifts](https://github.com/kiyoon/video-adversarial-augmentation)
@@ -46,7 +44,9 @@ Also I maintain some forks of existing plugins:
     - FORK: keep the original behaviour instead of only highlighting specific scopes.
 - [nvim-treesitter-context](https://github.com/kiyoon/nvim-treesitter-context): show current context like function signatures.
     - FORK: support single-line context
-  
+
+Use my configuration [dotfiles](https://github.com/kiyoon/dotfiles) [![GitHub stars](https://img.shields.io/github/stars/kiyoon/dotfiles.svg?style=social&label=Star)](https://github.com/kiyoon/dotfiles/stargazers/)
+
 ## 🐍 Python packages
 - [rust-graph](https://github.com/deargen/rust-graph): Speedy graph operations written in Rust but available as a Python package.
 - [version-pioneer](https://github.com/kiyoon/version-pioneer): Git tag-based project version management, with setuptools/hatchling/pdm support, which is extensible to any language.
